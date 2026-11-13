@@ -1,5 +1,10 @@
 streamlit
 plotly
+yfinance
 pandas
 numpy
 scikit-learn
+statsmodels
+prophet
+tensorflow
+xgboost
